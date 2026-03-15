@@ -2,7 +2,7 @@
 
 
 
-# Raycasting Horror Game (raylib)
+# Raycasting  Game (raylib)
 
 Simple grid based raycasting engine written in C using raylib.
 
